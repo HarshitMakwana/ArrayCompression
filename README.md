@@ -1,1 +1,2 @@
 # ArrayCompression
+Author: Harshit Makwana
